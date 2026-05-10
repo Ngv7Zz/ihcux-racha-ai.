@@ -58,3 +58,6 @@ Comunidade
 Documentos
 Contato
 Gerenciar cookies
+
+<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/20fd19da-443a-4877-95c0-ccd854a58e0c" />
+
